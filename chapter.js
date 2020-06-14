@@ -1,0 +1,1 @@
+alert("Happy coding! \n prevent this page for creating additional box:");
